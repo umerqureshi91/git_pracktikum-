@@ -1,4 +1,4 @@
 Test 1
-
+second line on remote server
 test 2 on local machine
 test 2 on remote server
